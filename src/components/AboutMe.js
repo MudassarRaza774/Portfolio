@@ -47,6 +47,9 @@ export default function BasicTabs() {
     setValue(newValue);
   };
 
+
+
+//use make styles rather than using in-line styles 
   return (
     <div
       style={{
